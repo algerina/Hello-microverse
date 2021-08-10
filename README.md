@@ -1,2 +1,2 @@
 # hello-microverse
-Week1 Fist Project
+Week1 First Project
