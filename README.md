@@ -1,43 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> One paragraph statement about the project.
+> Project to practice Git and Github flowgit .
 
-![screenshot](./app_screenshot.png)
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html 
+- CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+## Live demo
+NA
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+To get a local copy of the project just follow these steps:
+- Clone the Repo into your local: https://github.com/algerina/hello-microverse.git
+- Open a command line for the same directionary of the command line.
+- Install npm with command line: npm install.
 
 
 
@@ -52,7 +37,6 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -66,4 +50,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project has no  license.
