@@ -14,7 +14,7 @@ Additional description about the project and its features.
 - CSS
 
 ## Live demo
-NA
+N/A
 
 
 ## Getting Started
